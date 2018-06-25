@@ -1,0 +1,10 @@
+body {
+  background-color: darkslategray
+}
+
+.container-fluid {
+  background-color: grey;
+  min-width: 1050px
+}
+
+
